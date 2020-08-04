@@ -1,11 +1,11 @@
 # notifica.me
 Uma aplicação react-native para ios e android que facilita encontrar pessoas que necessitam de ajuda.
 
-<p>
-    <img alt="PrintScreen1" align="left" src=".github/screenshot1.PNG" width="25%">
-    <img alt="PrintScreen2" align="left" src=".github/screenshot2.PNG" width="25%">
-    <img alt="PrintScreen3" align="left" src=".github/screenshot3.PNG" width="25%">
-    <img alt="PrintScreen4" align="left" src=".github/screenshot4.PNG" width="25%">
+<p aling="center">
+    <img alt="PrintScreen1" src=".github/screenshot1.PNG" width="20%">
+    <img alt="PrintScreen2" src=".github/screenshot2.PNG" width="20%">
+    <img alt="PrintScreen3" src=".github/screenshot3.PNG" width="20%">
+    <img alt="PrintScreen4" src=".github/screenshot4.PNG" width="20%">
 </p>
 
 ## 🚀 Tecnologias
