@@ -1,7 +1,7 @@
 # notifica.me
 Uma aplicação react-native para ios e android que facilita encontrar pessoas que necessitam de ajuda.
 
-<p aling="center">
+<p align="center">
     <img alt="PrintScreen1" src=".github/screenshot1.PNG" width="20%">
     <img alt="PrintScreen2" src=".github/screenshot2.PNG" width="20%">
     <img alt="PrintScreen3" src=".github/screenshot3.PNG" width="20%">
@@ -18,12 +18,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+Notifica.me é uma aplicação que auxilia as pessoas necessitadas como idosos. Também auxilia cachorros perdidos e ONGs.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito por Vinicius Pereira Floriano, Vitoria Lopes, Vitor Silva e Pietro Caproni
